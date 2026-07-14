@@ -3,12 +3,12 @@
 ### **Datos del Alumno**
 * **Nombre:** Uriel Axel Calyeca Pérez
 * **Materia:** Patrones Orientados a Objetos
-* **Proyecto:** One Piece Universe (Evolución Final)
+* **Proyecto:** One Piece 
 
 ---
 
 ## Descripción del Proyecto
-Este proyecto representa la entrega final para el examen ordinario. Extiende y evoluciona la solución desarrollada en los parciales anteriores basada en el universo de *One Piece*, utilizando **TypeScript** y el motor de ejecución **Deno**. 
+Este proyecto representa la entrega final para el examen ordinario. Extiende y evoluciona la solución desarrollada en el parcial anterior basada en el universo de *One Piece*, utilizando **TypeScript** y el motor de ejecución **Deno**. 
 
 El sistema mantiene una continuidad directa con el dominio anterior (gestión de la tripulación y navegación), pero migra su enfoque hacia el comportamiento dinámico. Ahora los personajes cuentan con la capacidad de modificar sus estilos de combate en tiempo real y reaccionar de forma automatizada ante eventos del entorno mediante una interfaz interactiva por consola (CLI).
 
